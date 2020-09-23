@@ -1,8 +1,8 @@
 #include "std_lib_facilities.h"
 
-int main()
-{
-	cout << "Hello, world!\n";
+int main() {
+  
+  std::cout << "Hello World!\n";
 
-	return 0;
-}
+return 0;}
+
